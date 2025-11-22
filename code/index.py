@@ -18,3 +18,4 @@ while attempts < max_attempts:
         break
 else:
     print(f"you used all attempts. the number was {number}. better luck next time!")
+    
